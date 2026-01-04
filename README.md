@@ -2,6 +2,8 @@
 
 A beautiful, minimal Kanban board for organizing your tasks. Built with Next.js, Tailwind CSS, and smooth drag-and-drop interactions.
 
+**[Live Demo](https://slate-opal.vercel.app)**
+
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8?style=flat-square&logo=tailwindcss)
