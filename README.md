@@ -2,9 +2,15 @@
 
 A beautiful, minimal Kanban board for organizing your tasks. Built with Next.js, Tailwind CSS, and smooth drag-and-drop interactions.
 
-![Slate Kanban Board](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8?style=flat-square&logo=tailwindcss)
+
+## Screenshots
+
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Light Mode](public/screenshots/light-mode.png) | ![Dark Mode](public/screenshots/dark-mode.png) |
 
 ## Features
 
