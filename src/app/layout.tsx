@@ -13,6 +13,19 @@ export const metadata: Metadata = {
   title: "Slate - Kanban Board",
   description: "A beautiful drag-and-drop Kanban board for organizing your tasks",
   keywords: ["kanban", "task management", "productivity", "drag and drop"],
+  manifest: "/manifest.json",
+  icons: {
+    icon: [
+      { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+    ],
+    apple: "/apple-touch-icon.png",
+  },
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "default",
+    title: "Slate",
+  },
 };
 
 export default function RootLayout({
